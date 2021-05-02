@@ -179,28 +179,36 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "Two Full stack project you might be interested",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/eco.PNG"),
+      projectName: "eco cleaner(full-stack)",
+      projectDesc: "This is a full blown e commerce website",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
+          url: "https://eco-cleaner.netlify.app/"
+        },
         //  you can add extra buttons here.
+        {
+          name: "Visit git repo",
+          url: "https://github.com/muradtheOZ/eco-cleaner"
+        }
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/fruity.PNG"),
+      projectName: "Fruity-BD(full-stack)",
+      projectDesc: "This is an amazing fruit selling website where user can buy fruits",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://fruity-bd.netlify.app/"
+        },
+        {
+          name: "Visit git repo",
+          url: "https://github.com/muradtheOZ/fruits-client"
         }
       ]
     }
@@ -218,15 +226,15 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Search Engine optimization",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+        "This is a specialized SEO course offered by University of california Davis",
+      image: require("./assets/images/seo.PNG"),
       footerLink: [
         {
           name: "Certification",
           url:
-            "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+            "https://coursera.org/share/fe37ed1c44c56f78e86f91b97eee3ea2"
         }
       ]
     }
