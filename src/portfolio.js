@@ -25,7 +25,7 @@ const socialMediaLinks = {
   github: "https://github.com/muradtheOZ",
   linkedin: "https://www.linkedin.com/in/muradtheoz/",
   gmail: "murad15-9149@diu.edu.bd",
-  gitlab: "https://gitlab.com/saadpasta",
+  gitlab: "https://gitlab.com/muradahmed",
   facebook: "https://www.facebook.com/muradtheOZ",
   medium: "https://medium.com/@muradahmed199771",
   stackoverflow: "https://stackoverflow.com/users/7247295/murad-theoz",
@@ -258,7 +258,7 @@ const blogSection = {
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+      url: "https://medium.com/@muradahmed/why-react-is-the-best-5a97563f423e",
       title: "Why REACT is The Best?",
       description:
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
@@ -279,7 +279,7 @@ const talkSection = {
     {
       title: "Build Actions For Google Assistant",
       subtitle: "Codelab at GDG DevFest Karachi 2019",
-      slides_url: "https://bit.ly/saadpasta-slides",
+      slides_url: "https://bit.ly/muradahmed-slides",
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
