@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f0c773d.chunk.css",
+    "main.js": "/static/js/main.337ee75c.chunk.js",
+    "main.js.map": "/static/js/main.337ee75c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6b454f3f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6b454f3f.js.map",
+    "static/js/2.71456a32.chunk.js": "/static/js/2.71456a32.chunk.js",
+    "static/js/2.71456a32.chunk.js.map": "/static/js/2.71456a32.chunk.js.map",
+    "static/css/3.00373544.chunk.css": "/static/css/3.00373544.chunk.css",
+    "static/js/3.4709eaa0.chunk.js": "/static/js/3.4709eaa0.chunk.js",
+    "static/js/3.4709eaa0.chunk.js.map": "/static/js/3.4709eaa0.chunk.js.map",
+    "static/css/4.3e7d09e6.chunk.css": "/static/css/4.3e7d09e6.chunk.css",
+    "static/js/4.5703da17.chunk.js": "/static/js/4.5703da17.chunk.js",
+    "static/js/4.5703da17.chunk.js.map": "/static/js/4.5703da17.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9bffc218a663de2ccf44d188f0ad8c3f.js": "/precache-manifest.9bffc218a663de2ccf44d188f0ad8c3f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.00373544.chunk.css.map": "/static/css/3.00373544.chunk.css.map",
+    "static/css/4.3e7d09e6.chunk.css.map": "/static/css/4.3e7d09e6.chunk.css.map",
+    "static/css/main.4f0c773d.chunk.css.map": "/static/css/main.4f0c773d.chunk.css.map",
+    "static/js/2.71456a32.chunk.js.LICENSE.txt": "/static/js/2.71456a32.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/diuIcon.png": "/static/media/diuIcon.2e4f74fc.png",
+    "static/media/eco.PNG": "/static/media/eco.5464fd1b.PNG",
+    "static/media/facebookLogo.png": "/static/media/facebookLogo.8ddf76a1.png",
+    "static/media/fruity.PNG": "/static/media/fruity.a4e0d07d.PNG",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/quoraLogo.png": "/static/media/quoraLogo.4b2938b9.png",
+    "static/media/seo.PNG": "/static/media/seo.caa0f77d.PNG",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b454f3f.js",
+    "static/js/2.71456a32.chunk.js",
+    "static/css/main.4f0c773d.chunk.css",
+    "static/js/main.337ee75c.chunk.js"
+  ]
+}
